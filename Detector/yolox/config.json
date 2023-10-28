@@ -1,0 +1,7 @@
+{
+    "model_path": "Detector/yolox/model/yolox_m_640x640.onnx",
+    "class_score_th": 0.3,
+    "nms_th": 0.45,
+    "nms_score_th": 0.1,
+    "with_p6": false
+}
