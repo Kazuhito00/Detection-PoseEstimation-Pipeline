@@ -94,7 +94,7 @@ GPU推論するか否か<br>
 
 | アルゴリズム名 | 取得元リポジトリ | ライセンス | 備考 |
 | :--- | :--- | :--- | :--- |
-| movenet | [TensorFlow Hub](https://tfhub.dev/google/movenet/singlepose/lightning/4) | Apache-2.0 | ONNXファイルは [Kazuhito00/MoveNet-Python-Example](https://github.com/Kazuhito00/MoveNet-Python-Example) |
+| movenet | [TensorFlow Hub](https://tfhub.dev/google/movenet/singlepose/lightning/4) | Apache-2.0 |  [MoveNet-Python-Example](https://github.com/Kazuhito00/MoveNet-Python-Example)にて<br>ONNX化したモデルを使用 |
 | mediapipe_pose | [google/mediapipe](https://github.com/google/mediapipe) | Apache-2.0 | - |
 | rtmpose | [PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/393_RTMPose_WholeBody) | Apache-2.0 | - |
 
